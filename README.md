@@ -1,9 +1,22 @@
-### Hi there 👋
+# Привет 👋, Я Дарья Травникова
 
-<!--
-**DaryaTravnikova/DaryaTravnikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" width="430px" height="310px"  src="https://media.giphy.com/media/xsE65jaPsUKUo/giphy.gif" />
 
-Here are some ideas to get you started:
+> Я аналитик данных из Санкт-Петербурга.
+> Хорошо разбираюсь в Excel и пишу сложные запросы на SQL
+> Могу проанализировать 
+> Markdown-formatted document should be
+> publishable as-is, as plain text, without
+> looking like it's been marked up with tags
+> or formatting instructions.
+
+## Навыки и Технологии
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=plastic&logo=Microsoft-Excel&logoColor=white)
+![MySql](https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=MySQL&logoColor=white)
+
+## 📫 Как со мной связаться: ...
+
+<a href="https://t.me/TravnikovaDr" target="_blank"><img height="35px" src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" alt="Darya Travnikova Telegram"></a>  <a href="mailto:vorontsovo@bk.ru" target="_blank"><img  height="35px" src="https://hstock.s3.eu-central-1.amazonaws.com/images/products/5313/2662c443-5c22-4b47-a1ce-3a30fe203804-800.png" alt="Darya Travnikova Email"></a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +26,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
