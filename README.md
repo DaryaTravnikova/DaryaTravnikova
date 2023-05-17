@@ -10,7 +10,8 @@
 
 ## ⚙️Работаю с помощью:
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=plastic&logo=Microsoft-Excel&logoColor=white)
-!https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fa2%2Ff5%2F1f%2Fa2f51f793677329ab9ab187fe6099248.jpg&lr=2&pos=7&rpt=simage&text=postgresql
+<img scr="https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/07/postgresql-banner.png" width="75" height="30">
+
 
 ## 💻Примеры моих проектов:
 >[Анализ онлайн-кинотеатра.xlsx](https://github.com/DaryaTravnikova/DaryaTravnikova/files/11303737/-.xlsx)\
