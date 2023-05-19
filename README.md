@@ -10,7 +10,8 @@
 
 ## ⚙️Работаю с помощью:
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=plastic&logo=Microsoft-Excel&logoColor=white)
-<img scr="https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/07/postgresql-banner.png" width="75" height="30">
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=plactic&logo=postgresql&logoColor=white)
+![GoogleSheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=plastic&logo=google-sheets&logoColor=white)
 
 
 ## 💻Примеры моих проектов:
