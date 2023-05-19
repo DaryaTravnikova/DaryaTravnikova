@@ -1,6 +1,6 @@
 # Привет 👋, Я Дарья Травникова
 
-<img align="right" alt="GIF" width="430px" height="310px"  src="https://media.giphy.com/media/xsE65jaPsUKUo/giphy.gif" />
+<img align="right" alt="GIF" width="330px" height="310px"  src="https://media.tenor.com/fYL-jAts_1EAAAAi/cat-computer.gif" />
 
 > Я аналитик данных из Санкт-Петербурга.\
 > Могу проанализировать эффективность вашего продукта и влияние на него различных факторов.\
